@@ -1,0 +1,5 @@
+a = int(input())
+b = int((a/3)*2)
+c = int((b/2)/2)
+d = int(c)
+print (b,c,d)
